@@ -17,7 +17,7 @@ Esse repositório e uma atualização/melhoria do repositório anterior "formula
 <br>
 
 <p align="center">
-  <img alt="Tela de Login" src="">
+  <img alt="Tela de Login" src="./img/tela-login.png">
 </p>
 
 ## 🚀 Tecnologias
